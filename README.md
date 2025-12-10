@@ -14,10 +14,10 @@ You can view and run the entire project directly using the provided notebook:
 
 The model has been successfully trained and validated on diverse aquatic imagery, demonstrating accurate bounding box predictions and high confidence scores.
 
-| Detection: Fish | Detection: Starfish & Others | Detection: Jellyfish |
+| Detection: Fish | Detection: Other Fish | Detection: Jellyfish |
 | :---: | :---: | :---: |
-| <img src="Demo Image.png" alt="YOLOv8 Fish Detection" width="300"/> | <img src="Demo 3.jpg" alt="YOLOv8 Starfish and Anemone Detection" width="300"/> | <img src="Demo 2.png" alt="YOLOv8 Jellyfish Detection" width="300"/> |
-| **Demo Image.png** | **Demo 3.jpg** | **Demo 2.png** 
+| <img src="Images/Demo Image.png" alt="YOLOv8 Fish Detection" width="300"/> | <img src="Images/Demo 4.png" alt="YOLOv8 Starfish and Anemone Detection" width="300"/> | <img src="Images/Demo 5.png" alt="YOLOv8 Jellyfish Detection" width="300"/> |
+
 
 ## 💻 Setup and Training Instructions
 
