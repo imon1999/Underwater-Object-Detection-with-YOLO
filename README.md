@@ -28,6 +28,8 @@ The success of the training relies on the dataset being correctly formatted in t
 - labels
 - classes.txt
 
+Dataset link: https://www.kaggle.com/datasets/slavkoprytula/aquarium-data-cots
+
 ### 1. Run the Colab Notebook
 
 The quickest way to replicate the training and inference is by following the steps in the [Colab Notebook](https://colab.research.google.com/drive/1fT69gJyAz39IrlM2o4_y7fuaZ_Knwdfl?usp=sharing).
